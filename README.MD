@@ -6,8 +6,14 @@ New Order - text economy RPG game with pseudo graphic enigne written in pure C.
 
 # DEMO
 
-This project now in demo mode. 
+This project in tech-demo stage now
+NEW ORDER SUPPORTS ONLY LINUX SYSTEMS!
 
 Features in DEMO: 
 
+- pseudo ASCII graphical interface right in your terminal
+- Character stats, skills and level
 - 2 city 
+- Trade system
+- Fight system
+
