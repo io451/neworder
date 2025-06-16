@@ -17,3 +17,12 @@ Features in DEMO:
 - Trade system
 - Fight system
 
+
+# Roadmap (for alpha version)
+
+- Full GUI
+- 5 cities 
+- Full simple character progression system
+- Full simple trade system
+- Full travel system
+- Quests system
