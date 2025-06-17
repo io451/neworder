@@ -2,10 +2,19 @@
 
 This is my first serios project i used for learning C language.
 
-# DEMO
+# О игре
 
-Game currently in demo stage. 
-New Order have bugs and etc.
+ - Написан на языке C
+ - Кроссплатформенность
+
+Зависимости:
+
+- SDL2
+- SDL2_ttf
+- raylib (опционально)
+- raygui (опционально)
+
+Движок для игры написан на SDL2, raygui используется только для приложения дебагерра.
 
 # Roadmap
 - Собственный мини движок основанный на SDL3 (сейчас в разработке)
